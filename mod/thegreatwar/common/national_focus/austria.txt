@@ -600,7 +600,6 @@ focus_tree = {
 		id = AUH_ww1_triple_alliance
 		prerequisite = { focus=AUH_ww1_diplomatic_effort }
 		icon = GFX_hoi4tgw_triple_alliance
-
 		available = {
 			NOT = { has_global_flag = kis_treaty_of_versailles }
 		}
